@@ -1,0 +1,4 @@
+1;Haris Poteris ir Isminties Akmuo;J.K. Rowling;1997;Fantasy;Elektronine Knyga;1.2;EPUB
+2;Karas ir taika;Leo Tolstoy;1869;Classic;Popierine Knyga;399
+3;1984;George Orwell;1949;Dystopian;Elektronine Knyga;1.6;PDF
+4;Didysis Getsbis;F. Scott Fitzgerald;1925;Classic;Popierine Knyga;176
